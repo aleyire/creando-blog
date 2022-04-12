@@ -4,7 +4,7 @@
 - Abrir la consola de postgresql (SQL Shell-para Windows)
 - Seguir los pasos del documento script.sql
 ## Descripción
-Blog básico en donde se muestran posts y comentarios.
+Utilizando datos ficticios se crea un blog básico en donde se muestran posts y comentarios.
 Los usuarios a través de su correo electrónico pueden escribir posts y hacer comentarios a los posts publicados.
 Este desafío no esta en desarrollo por lo que no se realizarán futuras modificaciones.
 ## Materia aplicada
